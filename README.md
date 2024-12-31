@@ -19,7 +19,7 @@ We acknowledge that today, the scientific publication market is monopolized by a
 
 ## Dynamics
 
-Below we explain how the system works from the three possible perspectives: Reader, Author, Reviwer.
+Below we explain how the system works from the three possible perspectives: Reader, Author, Reviewer.
 
 ### Reader
 
@@ -39,13 +39,17 @@ The Author pays the fee to start the Peer Review process which in turn enables i
 3. upload the draft v1 as pdf,
 4. write title and resume,
 5. add topic tags,
-6. select the 3 candidate Reviwers.
+6. select the 3 candidate Reviewers.
 
-At this point the smart contract has began and the authorship of the text is preserved for as long as the process is `in-progress`. The reviwers are sent the title ans resume to accept or reject being part of the review. If the reviwers reject, the contact author will be requested to provide another candidate. The time window for all 3 reviwers to accept is 14 days (continous), if in this time any of the reviewrs haven't accepted, the smart contract gets `canceled` (the pdf content get deleted and the authorship preservation revoked).
-If all 3 reviwers have accepted, the contact author must provide the funds to pay the reviwers, which are frozen until the process reaches its end. The author has 2 business days to do this or the contract gets canceled.
+At this point the smart contract has began and the authorship of the text is preserved for as long as the process is `in-progress`. The reviewers are sent the title and resume to accept or reject being part of the review. If the reviewers reject, the contact author will be requested to provide another candidate. The time window for all 3 reviwers to accept is 14 days (continous), if in this time any of the reviewers haven't accepted, the smart contract gets `canceled` (the pdf content get deleted and the authorship preservation revoked).
+If all 3 reviewers have accepted, the contact author must provide the funds to pay the reviewers, which are frozen until the process reaches its end. The author has 2 business days to do this or the contract gets canceled.
+Upon acceptance, the draft v1 text is sent for the reviewers. After the review period is over they will have to return / upload their comments and their veredict if the draft is approved or rejected. In case the draft is rejected the contact-author will be requested to upload a 2nd version with the changes. There will be 2 corrections considered, i.e. up to version 3. If the later gets rejected the contract gets `canceled` and the process finished. If the majority of the reviewers approved the draft then it gets `published` and the process finished. It must be highlighted that the corrections are not mandatory unless the draft is rejected, when the reviewers are ask to decide on the draft they judge the draft without the modifications they suggested. This means that approving the draft means approving it as is.
 
+TODO: add diagrams
 
-can a company / organization be an author?
+- what happens if corrections are contradictory?
+
+- can a company / organization be an author?
 
 ## Market
 
