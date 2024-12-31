@@ -47,15 +47,34 @@ Upon acceptance, the draft v1 text is sent for the reviewers. After the review p
 
 TODO: add diagrams
 
-- what happens if corrections are contradictory?
+- what happens if corrections are contradictory? this will have to be solved outside of this platform but within the period given to upload the new version.
 
-- can a company / organization be an author?
+- can a company / organization be an author? yes, but all the members have to have their own account.
+
+### Reviewer
+
+The role of the reviewer is to act as an expert unbiased validator of third party work contributing to the Peer Review process.
+Because of the nature of this role, becoming one requiers higher levels of merits, proofs and validations than the Author role.
+There are however two paths to become a reviewer, there is the *organic path* and the *burocratic path* [TODO: replace by links to their own pages]. The organic way is straight forward and can be thought as an upgrade from the Author role, essentially once an author has reached X publications of a `[science][branch]` in the platform they will be offer the opportunity to create their Reviewer profile. Under other circumstances such as migrating from academia, they will have to validate their expertise on the subject by providing evidence such as links to published articles on well regarded magazines, university statements, etc.
+
+As a Reviewer you will have one or more topic groups (branches tag) that you are eligible to review. For example if your `science = MATH` and your `branch = TOPOLOGY` you will be elegible to review any article with those tags and `topic = *`.
+As hinted before, reviews are paid by the contact-author, and is the Reviewer who sets the price of it. In the Reviewer profile you can set your fee, which holds and applies to the whole Peer Review process, i.e. if your fee is 20 U$D and the process takes 3 versions, you will be paid 20 U$D (in ETH/BTC/ etc) once the process is completed. If the process required only one review, same as above, the payment is gicen upon completion. The fee that will be set in the contract is the one recieved in the offer of acceptance. If the Reviewer changes the fee the modifications will only apply for future contracts.
+
+With the profile created the Reviewer can be found by Authors throught different queries: by name, tags, affiliation, etc. They will also be part of the Random Asignment Pool (more on that later).
+If an Author has selected you as a candidate, you will receive an Offer of Acceptance containing the following information:
+- your reported fee as seen and accepted by the author,
+- the work title,
+- the draft summary,
+- the version of the draft,
+- the tags of the draft.
+
+You will have 2 days to accept or decline the offer.
 
 ## Market
 
 As implied by the user dynamics defined above, there is an emergent market from the synergy between authors and reviwers.
 Unless the community votes otherwise, this platform will be ads-free and will survive only due to the Peer-Reviwes dynamic contributions.
 
-The cost of starting the Peer-Review process is used to support the expenses associated with the BlockChain, the maintenance of the Server, the compensation to contributors to this code base and the retribution or payment to the authors dividens.
+The cost of starting the Peer-Review process is used to support the expenses associated with the BlockChain, the maintenance of the Server, the compensation to contributors to this code base and the dividen payments to the authors.
 The fee shall be an accessible amount world-wide, stable with low fluctuations; we will provide a process to update the value afterwards, at first it will be 10U$D.
 The fee is paid per article draft, regardless of the number of authors attached.
