@@ -1,10 +1,11 @@
 # Alexandria
+
 Open source, all purpose FREE Research Magazine, backed up with Blockchain technology.
 
 >[!IMPORTANT]
 >## WHY?
->This project aims to lead the scientific comunity to higher level of virtous cooperation cycle.
-We acknowledge that today, the scientific publication market is monopolized by a few agents, scientist are under compensated for their roles as authors and reviwers, and accessibility to papers is limited or even restricted. All these characteristic are related and fundamented by the current system. The proposed solution then is a radical revolutionary change.
+>This project aims to lead the scientific comunity to a higher level of virtous cooperation cycle.
+We acknowledge that today, the scientific publication market is monopolized by a few agents, scientist are under-compensated for their roles as authors and reviwers, and accessibility to papers is limited or even restricted. All these characteristic are related and fundamented by the current system. The proposed solution then is a radical revolutionary change.
 >
 >## HOW?
 >To drive the system into a better democratic state, this project aims to accomplish the following goals:
@@ -14,3 +15,8 @@ We acknowledge that today, the scientific publication market is monopolized by a
 >4. Enable Reviwers to recieve a direct compensation for their job.
 >5. Ensure the only condition to become an Author and or a Reviwer is a criteria based on accademic competency and merit.
 >6. Ensure that the rates assotiated to publish are established by the market.
+>7. All the logic and the code is Open Source.
+
+## Dynamics
+
+Below we explain how the system works from the three possible perspectives: Reader, Author, Reviwer.
