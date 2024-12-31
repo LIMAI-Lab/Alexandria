@@ -40,6 +40,7 @@ The Author pays the fee to start the Peer Review process which in turn enables i
 4. write title and resume,
 5. add topic tags,
 6. select the 3 candidate Reviwers.
+
 At this point the smart contract has began and the authorship of the text is preserved for as long as the process is `in-progress`. The reviwers are sent the title ans resume to accept or reject being part of the review. If the reviwers reject, the contact author will be requested to provide another candidate. The time window for all 3 reviwers to accept is 14 days (continous), if in this time any of the reviewrs haven't accepted, the smart contract gets `canceled` (the pdf content get deleted and the authorship preservation revoked).
 If all 3 reviwers have accepted, the contact author must provide the funds to pay the reviwers, which are frozen until the process reaches its end. The author has 2 business days to do this or the contract gets canceled.
 
