@@ -51,6 +51,9 @@ TODO: add diagrams
 
 - can a company / organization be an author? yes, but all the members have to have their own account.
 
+>[!IMPORTANT]
+> As an Author you will hold the rights of authorship but you resigns the rights of distribution, which are explicitly made free of access and download from this platform.
+
 ### Reviewer
 
 The role of the reviewer is to act as an expert unbiased validator of third party work contributing to the Peer Review process.
@@ -69,6 +72,14 @@ If an Author has selected you as a candidate, you will receive an Offer of Accep
 - the tags of the draft.
 
 You will have 2 days to accept or decline the offer.
+
+>[!IMPORTANT]
+> The Reviewer has the following responsabilities:
+> 1. Ensure the draft is not in another indexed database.
+> 2. Ensure it is not a copy of another work.
+> 3. Enforce the minimal common format.
+> 4. Validate the quality of the draft content.
+
 
 ## Market
 
